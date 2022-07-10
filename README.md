@@ -1,5 +1,5 @@
 # Rachunek-Macierzowy-i-Statystyka-Wielowymiarowa
-W repozytorium znajdują się sprawozdania z przedmiotu "Rachunek Macierzowy i Statystyka Wielowymiarowa", na który uczęszczałem w semestrze letnim 2021/2022 na Akademii Górniczo-Hutniczej w Krakowie. Przedmiot zasadniczo dzielił się na dwie części - część związaną z rachunkiem macierzowym oraz statystyką wielowymiarową. Sprawozdania z rachunku macierzowego zostały napisane w języku Python, a ze statystyki wielowymiarowej w języku R. Zagadnienia poruszone w poszczególnych sprawozdaniach:
+W repozytorium znajdują się sprawozdania z przedmiotu "Rachunek Macierzowy i Statystyka Wielowymiarowa", na który uczęszczałem w semestrze letnim 2021/2022 na Akademii Górniczo-Hutniczej w Krakowie na kierunku Data Science. Przedmiot zasadniczo dzielił się na dwie części - część związaną z rachunkiem macierzowym oraz statystyką wielowymiarową. Sprawozdania z rachunku macierzowego zostały napisane w języku Python, a ze statystyki wielowymiarowej w języku R. Zagadnienia poruszone w poszczególnych sprawozdaniach:
 ## Rachunek macierzowy:
 * Sprawozdanie nr 1 - obliczanie iloczynu dwóch macierzy za pomocą algorytmu rekurencyjnego Bineta oraz algorytmu klasycznego, porównanie złożoności obliczeniowych i czasowych.
 * Sprawozdanie nr 2 - rekurencyjne odwracanie macierzy.
