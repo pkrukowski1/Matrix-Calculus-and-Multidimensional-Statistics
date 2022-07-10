@@ -3,7 +3,7 @@ W repozytorium znajdują się sprawozdania z przedmiotu "Rachunek Macierzowy i S
 ## Rachunek macierzowy:
 * Sprawozdanie nr 1 - obliczanie iloczynu dwóch macierzy za pomocą algorytmu rekurencyjnego Bineta oraz algorytmu klasycznego, porównanie złożoności obliczeniowych i czasowych.
 * Sprawozdanie nr 2 - rekurencyjne odwracanie macierzy.
-* Sprawozdani nr 3 - rekurencyjna LU faktoryzacja macierzy.
+* Sprawozdanie nr 3 - rekurencyjna LU faktoryzacja macierzy.
 ## Statystyka wielowymiarowa:
 * Sprawozdanie nr 1 - dopasowanie modelu regresji liniowej, ocena istotności predyktorów w modelu.
 * Sprawozdanie nr 2 - dopasowanie modelu regresji logistycznej, LDA (Linear Discriminant Analysis), QDA (Quadratic Discriminant Analysis), kNN (k Nearest Neighbors).
